@@ -77,7 +77,7 @@ function App() {
       <div className="w-full justify-center sm:flex  ml-10 pb-5 my-10 sm:items-center ">
         <div className="flex ">
           <h1 className="flex text-3xl self-center font-semibold leading-6 text-gray-900">
-            {t("Task 5 fake users")}
+            {t("Task_5_fake_users")}
           </h1>
         </div>
       </div>

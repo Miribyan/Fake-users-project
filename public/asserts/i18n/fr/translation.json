@@ -1,0 +1,14 @@
+{
+  "Task_5_fake_users": "Tâche 5 faux utilisateurs",
+  "number": "Nombre",
+  "identification": "Identifiant unique",
+  "name": "Nom",
+  "address": "Adresse",
+  "phone": "Numéro de téléphone",
+  "mistake": "Erreur",
+  "seed": "Page",
+  "random": "aléatoire",
+  "pageNumber": "Graine",
+  "rangeOfMistake": "Plage d'erreur (0 - 10, pas=0,5)",
+  "max mistakes": "Nombre maximum d'erreurs par entrée 1000"
+}

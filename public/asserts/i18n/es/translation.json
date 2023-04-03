@@ -1,0 +1,14 @@
+{
+  "Task_5_fake_users": "Tarea 5 usuarias falsas",
+  "number": "Número",
+  "identification": "Identificación",
+  "name": "Nombre",
+  "address": "Dirección",
+  "phone": "Número de teléfono",
+  "mistake": "Error",
+  "seed": "Semilla",
+  "random": "Aleatorio",
+  "pageNumber": "Número de semillas",
+  "rangeOfMistake": "Rango de error (0 - 10, paso=0,5)",
+  "max mistakes": "Número máximo de errores por entrada 1000"
+}
