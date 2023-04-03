@@ -4,5 +4,4 @@ const port = 4000;
 app.use(express.static("./build"));
 app.listen(port, () => {
   console.log(`Listening on port ${port}…`);
-  start();
 });
